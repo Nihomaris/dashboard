@@ -1,0 +1,7 @@
+export const GET_PROJECTS = 'GET_PROJECTS';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const REMOVE_PROJECT = 'REMOVE_PROJECT';
+export const ADD_COMMENT = 'ADD_COMMENT';
+
+export const MOVE_PROJECT = 'MOVE_PROJECT';
+export const TOGGLE_COMMENT_WINDOW = 'TOGGLE_COMMENT_WINDOW';
